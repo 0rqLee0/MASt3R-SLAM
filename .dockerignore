@@ -1,0 +1,8 @@
+docker/cache
+logs
+datasets
+checkpoints
+**/build
+**/*.egg-info
+docker/build.log
+docker/Dockerfile
